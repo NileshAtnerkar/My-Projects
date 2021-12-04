@@ -1,3 +1,4 @@
+#Adding some comments to better understanding
 def add(a,b):
     result=a+b
     print(result)
